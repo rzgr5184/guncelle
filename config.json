@@ -8,13 +8,4 @@
     }
   }
 }
-{
-  "launcher_version": "2.1.0",
-  "games": {
-    "Assaultcube": {
-      "version": "1.0",
-      "exe_adi": "assaultcube.bat",
-      "link": "https://www.kuickdrop.com/download_process.php?path=vK71B4lWAOdkwnPGh6soeHcQL5ZFJb"
-    }
-  }
-}
+
